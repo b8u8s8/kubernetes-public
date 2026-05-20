@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx-app
-        image: parksoyeon/nginxweb:v1.0
+        image: b8u8s8/nginxweb:v1.0
         ports:
         - containerPort: 80
         resources:
